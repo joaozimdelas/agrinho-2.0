@@ -8,7 +8,7 @@ body {
 }
 
 header {
-  background: #63c20a;
+  background: #325710;
   color: #fff;
   padding: 20px 0;
   text-align: center;
@@ -33,8 +33,7 @@ nav a:hover {
 
 h2 {
   margin-bottom: 15px;
-  background: #63c20a;
-  color: ;
+  color: #388e3c;
   border-bottom: 2px solid #81c784;
   padding-bottom: 5px;
 }
